@@ -1,0 +1,39 @@
+{
+  "name": "themes-hero",
+  "displayName": "Themes ni Hero",
+  "description": "Less Color, More Code",
+  "license": "MIT",
+  "version": "1.0.0",
+  "publisher": "jhdcruz",
+  "author": {
+    "name": "Joshua Hero <jhdcruz@proton.me>"
+  },
+  "engines": {
+    "vscode": "^1.106.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Hero Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/hero-dark-color-theme.json"
+      }
+    ]
+  },
+  "keywords": [
+    "hero",
+    "theme",
+    "less",
+    "color"
+  ],
+  "sponsor": {
+    "url": "https://wise.com/pay/me/joshuaheroherrerad"
+  },
+  "pricing": "Free",
+  "repository": {
+    "url": "https://github.com/jhdcruz/hero-theme"
+  }
+}
