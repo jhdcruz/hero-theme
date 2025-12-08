@@ -1,9 +1,9 @@
 {
-  "name": "themes-hero",
-  "displayName": "Themes ni Hero",
+  "name": "hero-theme",
+  "displayName": "Hero Theme",
   "description": "Less Color, More Code",
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "jhdcruz",
   "author": {
     "name": "Joshua Hero <jhdcruz@proton.me>"
@@ -30,7 +30,7 @@
     "color"
   ],
   "sponsor": {
-    "url": "https://wise.com/pay/me/joshuaheroherrerad"
+    "url": "https://en.liberapay.com/jhdcruz/"
   },
   "pricing": "Free",
   "repository": {

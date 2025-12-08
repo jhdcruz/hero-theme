@@ -8,6 +8,6 @@
 
 > Attribution
 >
-> UI is based off on `Monochromatic 2` by `lfgzanardo`.
+> UI is based off on heavily modified `Monochromatic 2` by `lfgzanardo`.
 >
 > See: https://themes.vscode.one/theme/lfgzanardo/ZwhteqUm
