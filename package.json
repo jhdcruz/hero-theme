@@ -3,7 +3,7 @@
   "displayName": "Hero Theme",
   "description": "Less Color, More Code",
   "license": "MIT",
-  "version": "1.0.1",
+  "version": "1.1.1",
   "publisher": "jhdcruz",
   "author": {
     "name": "Joshua Hero <jhdcruz@proton.me>"
@@ -20,6 +20,11 @@
         "label": "Hero Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/hero-dark-color-theme.json"
+      },
+      {
+        "label": "Hero Dark Inverse",
+        "uiTheme": "vs-dark",
+        "path": "./themes/hero-dark-inverse-color-theme.json"
       }
     ]
   },
